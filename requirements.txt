@@ -1,2 +1,7 @@
 streamlit
 pandas
+plotly
+xlsxwriter
+openpyxl
+pdfplumber
+pytesseract
